@@ -1,16 +1,33 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Learn more about my work and expertise
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Welcome!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm **Lara Wehbe**, a dedicated **epidemiologist and data scientist** with a passion for **public health, data analytics, and research**.
 
-What else do you need?
+### **My Background**
+I currently work at the **Epidemiological Surveillance Unit at the Lebanese Ministry of Public Health**, where I contribute to **disease monitoring, outbreak investigations, and data-driven decision-making**.
 
-### My story
+### **Skills & Interests**
+- 📊 **Data Science & Analytics** – R Studio
+- 🏥 **Public Health & Epidemiology** – Surveillance, research, and policy development  
+- 🔍 **Data-Driven Research** – Using statistics and machine learning for health insights  
+- 📝 **Technical Writing** – Research papers, reports, and public health documentation  
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### **My Work**
+This website serves as a platform to showcase my **projects, research, and insights** in data science and public health.
+
+You can explore my **latest work and contributions** on my **[GitHub profile](https://github.com/lwehbe-1)**.
+
+---
+
+### **📬 Get in Touch**
+📧 **Email:** lwehbe@asu.edu  
+💻 **GitHub:** [lwehbe-1](https://github.com/lwehbe-1)  
+🔗 **LinkedIn:** [lara-wehbe](https://www.linkedin.com/in/lara-wehbe/)  
+📷 **Instagram:** [@laraawehbe_](https://www.instagram.com/laraawehbe_)  
+
+Thanks for visiting my website!
