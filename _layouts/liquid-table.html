@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<table border="1">
+  <tr>
+    <th></th>
+    <th>Strengths</th>
+    <th>Weaknesses</th>
+  </tr>
+  <tr>
+    <td><b>Ryan Reynolds</b></td>
+    <td>
+      <ul>
+        {% for item in page.reynolds.strengths %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </td>
+    <td>
+      <ul>
+        {% for item in page.reynolds.weaknesses %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ryan Gosling</b></td>
+    <td>
+      <ul>
+        {% for item in page.gosling.strengths %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </td>
+    <td>
+      <ul>
+        {% for item in page.gosling.weaknesses %}
+        <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </td>
+  </tr>
+</table>
