@@ -6,13 +6,13 @@
 # --- Required options --- #
 
 # Name of website
-title: Lara's Website
+title: "Lara's Website"
 
 # Short description of your site
 description: "A personal platform to showcase my work, projects, and insights."
 
 # Your name to show in the footer
-author: Lara Wehbe
+author: "Lara Wehbe"
 
 # --- List of links in the navigation bar --- #
 
@@ -22,7 +22,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
- Table Demo: "table-demo"
+  Table Demo: "table-demo"
     
 # --- Logo --- #
 
