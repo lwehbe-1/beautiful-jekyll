@@ -21,7 +21,7 @@ gosling:
     - Not Ryan Reynolds
 ---
 
-![](img/ryan-v-ryan.jpg)  
+![](/assets/img/Ryan-Gosling-Ryan-Reynolds-2017-Critics-Choice-Awards.webp)
 
 ### **Ryan vs Ryan: Who is the Best?**  
 
