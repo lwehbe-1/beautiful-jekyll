@@ -4,15 +4,13 @@ title: Getting Started
 subtitle: Set up your website in minutes!
 ---
 
-## Overview of Steps Required
+### Overview of Steps Required
 
 There are only three simple steps to follow.
 
 Here is a 40-second video demonstrating the process:
 
-<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
-
----
+<img src="/assets/img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
 <div class="gs-section-01" markdown="1">
 
@@ -23,8 +21,6 @@ by clicking the Fork button on the top right corner in GitHub.
 
 </div>
 
----
-
 <div class="gs-section-02" markdown="1">
 
 ### 2. Rename the Project
@@ -33,8 +29,6 @@ Click on **Settings** in your repository and rename your repository
 to `<yourusername>.github.io` to activate GitHub Pages.
 
 </div>
-
----
 
 <div class="gs-section-03" markdown="1">
 
@@ -56,12 +50,12 @@ Add this **CSS code** at the bottom of this file:
 
 ```html
 <style>
-/* Step 1 - Red Title */
-.gs-section-01 h2 { color: red; }
-
-/* Step 2 - Blue Title */
-.gs-section-02 h2 { color: blue; }
-
-/* Step 3 - Green Title */
-.gs-section-03 h2 { color: green; }
+  /* Step 1 - Red Title */
+  .gs-section-01 h2 { color: red; }
+  
+  /* Step 2 - Blue Title */
+  .gs-section-02 h2 { color: blue; }
+  
+  /* Step 3 - Green Title */
+  .gs-section-03 h2 { color: green; }
 </style>
