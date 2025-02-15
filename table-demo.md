@@ -36,7 +36,7 @@ study_types:
       - Ethical concerns
 ---
 
-![](/assets/img/comparison-table.jpg)  
+![](/assets/img/types-of-studies.jpeg) 
 
 ### Comparison of Epidemiological Study Designs
 
