@@ -1,43 +1,48 @@
 ---
 layout: liquid-table
 title: "Comparison of Epidemiological Study Designs"
+---
+
+![](/assets/img/types-of-studies.jpeg)  
+
+## **Comparison of Epidemiological Study Designs**
+
+Epidemiology research relies on different study designs, each with its **strengths** and **limitations**. Below is a comparison of some of the most commonly used epidemiological study types.
+
+---
+
+### **📊 Study Types Table**
+```yaml
 study_types:
-  Cohort:
+  Cohort Study:
     description: "Observational study following a group over time."
     strengths:
       - Measures incidence
-      - Establishes temporality
+      - Establishes temporality (cause before effect)
     weaknesses:
       - Expensive
       - Time-consuming
-  Case-Control:
-    description: "Compares individuals with a disease to those without."
+  Case-Control Study:
+    description: "Compares individuals with a disease (cases) to those without (controls)."
     strengths:
       - Good for rare diseases
-      - Quick and inexpensive
+      - Quick and cost-effective
     weaknesses:
       - Prone to recall bias
-      - Cannot establish causality
-  Cross-Sectional:
+      - Cannot determine causality
+  Cross-Sectional Study:
     description: "Analyzes data from a population at a single point in time."
     strengths:
-      - Easy to conduct
+      - Easy and inexpensive to conduct
       - Generates hypotheses
     weaknesses:
       - Cannot establish causality
-      - No temporality
-  RCT:
+      - No temporality (cause-effect relationship unclear)
+  Randomized Controlled Trial (RCT):
     description: "Participants are randomly assigned to groups to test interventions."
     strengths:
-      - Gold standard for causality
-      - Minimizes bias
+      - Gold standard for causal relationships
+      - Minimizes selection bias
     weaknesses:
-      - Expensive
-      - Ethical concerns
----
-
-![](/assets/img/types-of-studies.jpeg) 
-
-### Comparison of Epidemiological Study Designs
-
-A structured comparison of various study designs used in epidemiology and public health.
+      - Expensive and time-consuming
+      - Ethical concerns in some cases
